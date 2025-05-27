@@ -31,6 +31,12 @@ The dataset used is a publicly available Netflix dataset (`netflix_titles.csv`) 
 
 ---
 
+### Sample Visualization
+![image](https://github.com/user-attachments/assets/f5f06317-09a5-4926-ae7f-7e51d691e4b7)
+
+
+
+---
 ## 🔍 Key Analysis
 
 - Number of Movies vs TV Shows
