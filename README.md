@@ -1,7 +1,4 @@
-# 🎬🍿netflix-analysis
-Exploratory Data Analysis of Netflix titles using Python to uncover trends in genres, release years, countries, and content types.
-
-# 📺 Netflix Data Analysis Project
+# 📺🎬🍿 Netflix Data Analysis Project
 
 This project performs Exploratory Data Analysis (EDA) on the Netflix dataset using Python. It uncovers patterns in content type, release year, genres, duration, and country-wise distribution. The goal is to derive insights that help understand the nature of content available on Netflix.
 
@@ -42,17 +39,9 @@ The dataset used is a publicly available Netflix dataset (`netflix_titles.csv`) 
 - Most frequent genres
 - Duration distribution of movies and shows
 - Top contributing directors and actors
-
----
-
-## 📈 Sample Visuals
-
-> Add some screenshots of your charts here (optional)
-
+- 
 ---
 
 ## 📝 How to Run
 
-1. Download the repository or clone it:
-   ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
+➡️ git clone https://github.com/Sharmaindradev-007/netflix-data-analysis.git
