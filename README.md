@@ -42,6 +42,17 @@ The dataset used is a publicly available Netflix dataset (`netflix_titles.csv`) 
 - 
 ---
 
-## 📝 How to Run
+## 🚀 How to Run
+1. Clone the repository or download the files.
+2. Open the notebook `Netflix.ipynb` in Jupyter Notebook.
+3. Make sure `netflix_titles.csv` is in the same directory.
+4. Run the cells to see the analysis and visualizations.
 
-➡️ git clone https://github.com/Sharmaindradev-007/netflix-data-analysis.git
+➡️ git  https://github.com/Sharmaindradev-007/netflix-data-analysis.git
+
+## 📌 Dataset Source
+
+The dataset was taken from [Kaggle - Netflix Titles](https://www.kaggle.com/datasets/shivamb/netflix-shows).
+
+---
+Feel free to contribute or give feedback!
