@@ -52,8 +52,8 @@ The dataset used is a publicly available Netflix dataset (`netflix_titles.csv`) 
 2. Open the notebook `Netflix.ipynb` in Jupyter Notebook.
 3. Make sure `netflix_titles.csv` is in the same directory.
 4. Run the cells to see the analysis and visualizations.
-### ✌️ 2nd Method - (only click👇)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sharmaindradev-007/netflix-analysis/HEAD?labpath=Netflix.ipynb)
+### ✌️ 2nd Method - (only click)
+👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sharmaindradev-007/netflix-analysis/HEAD?labpath=Netflix.ipynb)
 
 
 ## 📌 Dataset Source
