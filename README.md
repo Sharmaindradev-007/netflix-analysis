@@ -30,8 +30,7 @@ The dataset used is a publicly available Netflix dataset (`netflix_titles.csv`) 
 - Description
 
 ---
-
-### Sample Visualization
+### 🎭 Genre Distribution
 ![image](https://github.com/user-attachments/assets/f5f06317-09a5-4926-ae7f-7e51d691e4b7)
 
 
@@ -48,11 +47,12 @@ The dataset used is a publicly available Netflix dataset (`netflix_titles.csv`) 
 - 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run(1st Method)
 1. Clone the repository or download the files.
 2. Open the notebook `Netflix.ipynb` in Jupyter Notebook.
 3. Make sure `netflix_titles.csv` is in the same directory.
 4. Run the cells to see the analysis and visualizations.
+   (2nd Method)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sharmaindradev-007/netflix-analysis/HEAD?labpath=Netflix.ipynb)
 
 
